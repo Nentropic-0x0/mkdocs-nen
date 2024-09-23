@@ -1,0 +1,72 @@
+/* Minimize header */
+.md-header {
+    background-color: white;
+    color: black;
+    box-shadow: none;
+  }
+  
+  /* Style the main content area */
+  .md-main__inner {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  /* Center align the content */
+  .md-content__inner {
+    margin: 0;
+    padding: 2rem 0;
+    text-align: center;
+  }
+  
+  /* Style the download buttons */
+  .md-button {
+    border-radius: 4px;
+    padding: 0.6rem 1.2rem;
+    font-weight: bold;
+    text-transform: none;
+  }
+  
+  .md-button--primary {
+    background-color: #000;
+    color: #fff;
+    border: none;
+  }
+  
+  /* Style OS selection */
+  .os-selection {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .os-icon {
+    width: 48px;
+    height: 48px;
+    opacity: 0.5;
+    transition: opacity 0.3s;
+  }
+  
+  .os-icon:hover, .os-icon.active {
+    opacity: 1;
+  }
+  
+  /* Email signup form */
+  .email-signup {
+    margin-top: 2rem;
+  }
+  
+  .email-signup input {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .email-signup button {
+    background-color: #f0f0f0;
+    color: #000;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
