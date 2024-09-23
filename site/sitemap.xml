@@ -9,11 +9,27 @@
          <lastmod>2024-09-23</lastmod>
     </url>
     <url>
+         <loc>https://nentropic.dev/genesis/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
          <loc>https://nentropic.dev/getting-started/</loc>
          <lastmod>2024-09-23</lastmod>
     </url>
     <url>
-         <loc>https://nentropic.dev/wandb/</loc>
+         <loc>https://nentropic.dev/blog/regular-blog/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://nentropic.dev/blog/research/posts/mit_base/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://nentropic.dev/blog/research/posts/wandb/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://nentropic.dev/repos/ephemeral-graphs/</loc>
          <lastmod>2024-09-23</lastmod>
     </url>
     <url>
@@ -21,19 +37,19 @@
          <lastmod>2024-09-23</lastmod>
     </url>
     <url>
-         <loc>https://nentropic.dev/blog/blog_1/</loc>
+         <loc>https://nentropic.dev/blog/archive/2024/</loc>
          <lastmod>2024-09-23</lastmod>
     </url>
     <url>
-         <loc>https://nentropic.dev/ephemegraph-blog/genesis/</loc>
+         <loc>https://nentropic.dev/blog/category/data-science/</loc>
          <lastmod>2024-09-23</lastmod>
     </url>
     <url>
-         <loc>https://nentropic.dev/experiments/mit_base/</loc>
+         <loc>https://nentropic.dev/blog/category/machine-learning/</loc>
          <lastmod>2024-09-23</lastmod>
     </url>
     <url>
-         <loc>https://nentropic.dev/repos/ephemegraphs/</loc>
+         <loc>https://nentropic.dev/blog/category/knowledge-graphs/</loc>
          <lastmod>2024-09-23</lastmod>
     </url>
 </urlset>

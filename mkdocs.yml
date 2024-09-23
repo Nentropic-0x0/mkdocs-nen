@@ -1,4 +1,4 @@
-site_name: Ephemegraphs
+site_name: Nentropic Research
 site_description: An extension of the Graph Representation work
 site_author: Nentropic Research
 site_url: https://nentropic.dev
@@ -34,12 +34,10 @@ nav:
   - Documentation:
       - Getting Started: getting-started.md
       - API Reference: api-reference.md
-  - about.md
-  - blog/blog_1.md
-  - ephemegraph-blog/genesis.md
-  - repos/ephemegraphs.md
-  - Research Blog: blog/index.md
-  - Technical Blog: tech-blog/index.md
+  - About
+  - Blog:  
+    - Research Blog: blog/index.md
+    - Technical Blog: tech-blog/index.md
   - Experiments:
       - Weights and Biases: https://www.wandb.ai/nentropic-research
       - Neptune.ai: https://www.neptune.ai
