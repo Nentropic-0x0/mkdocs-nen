@@ -41,10 +41,16 @@ nav:
   - Documentation:
       - Getting Started: getting-started.md
       - API Reference: api-reference.md
+  - about.md
+  - blog/blog_1.md
+  - ephemegraph-blog/genesis.md
+  - repos/ephemegraphs.md
   - Research Blog: blog/index.md
   - Technical Blog: tech-blog/index.md
   - Experiments:
-      - Baselining Graph Processing: experiments/baselining-graph-processing.md
+      - Weights and Biases: https://www.wandb.ai/nentropic-research
+      - Neptune.ai: https://www.neptune.ai
+      - MIT GraphProcessing Baseline: experiments/mit_base.md
 
 extra:
   social:
